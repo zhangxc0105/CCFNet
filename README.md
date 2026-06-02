@@ -13,7 +13,7 @@
 ## 📍 Core Module
 
 <div align="center">
-  <img src="assets/CCA.png" width="100%" alt="Main Module">
+<img src="asset/CCA.png" width="100%">
 </div>
 
 ## 📁Project Structure
