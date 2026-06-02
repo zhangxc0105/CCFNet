@@ -1,4 +1,4 @@
-# 📡 Rethinking Pansharpening via Correspondence-Aware Complementary Fusion
+# [JSTARS 2026] Rethinking Pansharpening via Correspondence-Aware Complementary Fusion
 
 🔥 PyTorch codes for "[Rethinking Pansharpening via Correspondence-Aware Complementary Fusion](https://ieeexplore.ieee.org/abstract/document/11440106)", **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2026.
 
