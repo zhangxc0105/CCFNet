@@ -115,7 +115,7 @@ Comparison methods: MTF_GLP_FS, BDSD_PC, TV, PNN, PanNet, DiCNN, MSDCNN, FusionN
 }
 
 @article{zhang2026frequency,
-  title={Frequency-Driven State Space Model for Remote Sensing Pansharpening},
+  title={Frequency-Driven State-Space Model for Remote Sensing Pansharpening},
   author={Zhang, Xiaochen and Li, Jiangyun and Wang, Hao and Zhuang, Peixian},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   year={2026}
